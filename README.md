@@ -40,18 +40,22 @@ Query4: to dispaly countries by growth rate
 
 <img src="Dashboard.png" width="900">
 
-<img src="chart1.png" width="900">
+<img src="chart1.png" width="500">
 
 macau and monaco have the highest population density per km*kml
 
-<img src="chart2.png" width="900">
+<img src="chart2.png" width="500">
 
 asia and europe and africa show the highest population growth
 
-<img src="chart3.png" width="900">
+<img src="chart3.png" width="500">
+
+china and india have the largest share of the world's population
+
+<img src="chart4.png" width="500">
 
 these are the top 10 fastest growing countries with similar growth rates
 
-<img src="chart4.png" width="900">
+<img src="chart4.png" width="500">
 
 there is a significant population increase from 1970 to 2022 more than doubling 
