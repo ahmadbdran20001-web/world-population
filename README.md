@@ -20,6 +20,8 @@ the data contains 235 rows and 17 columns
 5-prepared the dataset for analysis 
 ## SQL queries used :
 
+
+
 ## data analysis :
 
                                                          Dashboard
