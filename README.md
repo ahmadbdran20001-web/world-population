@@ -34,6 +34,7 @@ Query3: to display countries by population size
 Query4: to dispaly countries by growth rate 
 
 <img src="Query4.jpg" width="500">
+
 ## data analysis :
 
                                                          Dashboard
