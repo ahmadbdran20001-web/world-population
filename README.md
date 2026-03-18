@@ -1,4 +1,4 @@
-# market_sales_data_analysis_
+# world_population_data_analysis
 data analysis project using SQL+Power Bi to explore world population
 ## Data source :
 from kaggel 
