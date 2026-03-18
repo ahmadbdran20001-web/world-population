@@ -19,9 +19,21 @@ the data contains 235 rows and 17 columns
 
 5-prepared the dataset for analysis 
 ## SQL queries used :
+Query1: to display countries by population density per km*km
 
+<img src="Query1.jpg" width="500">
 
+Query2: to diplay continents by growth rate 
 
+<img src="Query2.jpg" width="500">
+
+Query3: to display countries by population size 
+
+<img src="Query3.jpg" width="500">
+
+Query4: to dispaly countries by growth rate 
+
+<img src="Query4.jpg" width="500">
 ## data analysis :
 
                                                          Dashboard
