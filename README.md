@@ -57,6 +57,6 @@ china and india have the largest share of the world's population
 
 these are the top 10 fastest growing countries with similar growth rates
 
-<img src="chart4.png" width="500">
+<img src="chart5.png" width="500">
 
 there is a significant population increase from 1970 to 2022 more than doubling 
